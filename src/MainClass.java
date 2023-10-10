@@ -5,6 +5,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		int x=0;
 		int y=0;
+		int z=0;
 		System.out.print("x= "+x+ "  y=  "+y);
 
 	}
